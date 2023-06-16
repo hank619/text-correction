@@ -8,3 +8,8 @@ services:
     image: matrixyf/text-correction
     ports:
       - 80:3000
+    environment:
+      APPID:
+      API_SECRET:
+      API_KEY:
+      API_HOST:
