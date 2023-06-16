@@ -1,8 +1,3 @@
-<!--
- * @Author: Hong.Zhang
- * @Date: 2022-07-29 12:10:06
- * @Description: 
--->
 <template>
   <div class="w-screen h-screen flex flex-col">
     <main class="flex-1 flex flex-row bg-slate-50">

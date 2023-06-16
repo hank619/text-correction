@@ -1,10 +1,6 @@
-/*
- * @Author: Hong.Zhang
- * @Date: 2022-07-29 15:21:30
- * @Description: 
- */
 import { defineStore } from "pinia";
-const API_BASE_URL = 'http://127.0.0.1:3000/api';
+// be careful the port should be 80 which is mapped of host, not the one in the container
+const API_BASE_URL = 'http://localhost:80/api';
 
 export const editorStore = defineStore("editorStore", {
   state: () => {

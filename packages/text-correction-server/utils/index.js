@@ -1,12 +1,7 @@
-/*
- * @Author: Hong.Zhang
- * @Date: 2022-07-30 14:54:44
- * @Description: 
- */
 const CryptoJS = require("crypto-js");
 const axios = require('axios');
 const APPID = process.env.APPID;
-const API_SECRET = process.env.APPID.API_SECRET;
+const API_SECRET = process.env.API_SECRET;
 const API_KEY = process.env.API_KEY;
 const API_HOST = process.env.API_HOST;
 

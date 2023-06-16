@@ -9,7 +9,7 @@ services:
     ports:
       - 80:3000
     environment:
-      APPID:
-      API_SECRET:
-      API_KEY:
-      API_HOST:
+      APPID: eca74e52
+      API_SECRET: ZTE5MDc1YWY4YmUxMGI3MWMxZDRmNmM0
+      API_KEY: 82ddba91f866bac3de35c115b418576c
+      API_HOST: https://api.xf-yun.com/v1/private/s9a87e3ec

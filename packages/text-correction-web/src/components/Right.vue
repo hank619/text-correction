@@ -1,8 +1,3 @@
-<!--
- * @Author: Hong.Zhang
- * @Date: 2022-07-29 14:28:06
- * @Description: 
--->
 <template>
   <div class="flex flex-col overflow-auto w-full h-full p-4">
     <div class=" my-6 p-6 self-center text-rose-400 text-center bg-rose-100 rounded-lg">

@@ -1,8 +1,3 @@
-<!--
- * @Author: Hong.Zhang
- * @Date: 2022-07-29 14:27:58
- * @Description: 
--->
 <template>
   <div class="w-full h-full p-6 relative">
     <div class="bg-white w-full h-full outline-none p-4 whitespace-pre-wrap rounded-md" contenteditable="true" @input="input" ref="divRef" >
